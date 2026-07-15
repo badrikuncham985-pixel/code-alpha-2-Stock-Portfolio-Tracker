@@ -13,6 +13,11 @@ A Python console application that helps users manage a stock portfolio.
 - Python
 - CSV Module
 - Datetime Module
+- 
+Stock,Quantity,Price,Total Value
+AAPL,2,180,360
+TSLA,1,250,250
+Total,,,610
 
 ## How to Run
 
